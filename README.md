@@ -1,2 +1,2 @@
-# react-hello-world
-start react with hello world
+# Todo
+start react/redux with Todo
